@@ -4,9 +4,9 @@ Here's a quick summary about me:
 
 - 😊 Pronouns: He/him
 
-- 💡 I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.
+- 💡 I'm currently studying at (ALX) African Leadership X School of Software Engineering Class of 2023.
 
-- 🌱 I’m currently learning JavaScript, VueJs, NodeJs.
+- 🌱 I’m currently learning Python, JavaScript, VueJs, NodeJs to my already existing Stack.
 
 - 🤔 I’m looking for help with open source projects, e-Commerce, Cryto & FinTech solution.
 
