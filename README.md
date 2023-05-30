@@ -6,13 +6,13 @@ Here's a quick summary about me:
 
 - 💡 I'm currently studying at (ALX) African Leadership X School of Software Engineering Class of 2023.
 
-- 🌱 I’m currently learning Python, JavaScript, VueJs, NodeJs to my already existing Stack.
+- 🌱 I’m currently learning Python, JavaScript, VueJs, Machine Learning and Artificial Intelligence In to my already existing Stack.
 
-- 🤔 I’m looking for help with open source projects, e-Commerce, Cryto & FinTech solution.
+- 🤔 I’m looking for help with open source projects, e-Commerce, Backend Solutions, Mobile Applcation, Cryto & FinTech solution.
 
 - 💼 Job interests: Software Engineer, Backend Engineer, , DevOps Engineer.
 
-- 📫 You can reach me on by sending an email to stevebrain@tekfolio.net.
+- 📫 You can reach me on by sending an email to stevebrainng@yahoo.com.
 
 - 💬 Ask me about my social lifetyle, health lifestyle, and 
 
