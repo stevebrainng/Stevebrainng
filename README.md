@@ -1,4 +1,4 @@
-### Hi everyone 👋, a Software Engineer, Cyber Security Expert,  who is passionate about sharing knowledge, elegant web UI and supporting the tech community.
+### Hi everyone 👋, a Software Engineer, Cyber Security Expert, DevOps and Mobile Developer; who is passionate about sharing knowledge, increasing value and relevance and supporting the tech community.
 
 Here's a quick summary about me:
 
