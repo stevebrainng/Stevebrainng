@@ -6,15 +6,15 @@ Here's a quick summary about me:
 
 - 💡 I'm currently studying at (ALX) African Leadership X School of Software Engineering Class of 2023.
 
-- 🌱 I’m currently learning Python, JavaScript, VueJs, Machine Learning and Artificial Intelligence In to my already existing Stack.
+- 🌱 I’m currently learning Python, DevOps JavaScript, Machine Learning and Artificial Intelligence In to my already existing Stack.
 
-- 🤔 I’m looking for help with open source projects, e-Commerce, Backend Solutions, Mobile Applcation, Cryto & FinTech solution.
+- 🤔 I’m looking for help with open source projects, e-Commerce, Backend Solutions, Mobile Applcations, Crypto & FinTech solutions.
 
-- 💼 Job interests: Software Engineer, Backend Engineer, , DevOps Engineer.
+- 💼 Job interests: Software Engineer, Backend Engineer, Mobile Applicaton Developer, DevOps Engineer.
 
-- 📫 You can reach me on by sending an email to stevebrainng@yahoo.com.
+- 📫 You can reach me by sending an email to stevebrainng@yahoo.com, or connect with me on Twitter and LinkedIn.
 
-- 💬 Ask me about my social lifetyle, health lifestyle, and 
+- 💬 Ask me about my social lifetyle, health lifestyle.
 
 - ⚡ Fun facts: When I'm not coding, I'm either out with friends & family, playing Video Games, or reading books.
 
